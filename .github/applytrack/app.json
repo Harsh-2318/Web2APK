@@ -1,0 +1,12 @@
+{
+  "appName": "ApplyTrack",
+  "appId": "com.harsh.applytrack",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "url": "https://applytrack-0zts.onrender.com/",
+  "allowNavigation": [
+    "applytrack-0zts.onrender.com",
+    "*.amazoncognito.com",
+    "*.amazonaws.com"
+  ]
+}
